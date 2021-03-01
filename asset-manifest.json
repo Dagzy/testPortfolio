@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/testPortfolio/static/css/main.75b82218.chunk.css",
+    "main.js": "/testPortfolio/static/js/main.0da03670.chunk.js",
+    "main.js.map": "/testPortfolio/static/js/main.0da03670.chunk.js.map",
+    "runtime-main.js": "/testPortfolio/static/js/runtime-main.2efd74da.js",
+    "runtime-main.js.map": "/testPortfolio/static/js/runtime-main.2efd74da.js.map",
+    "static/js/2.c2f8ebee.chunk.js": "/testPortfolio/static/js/2.c2f8ebee.chunk.js",
+    "static/js/2.c2f8ebee.chunk.js.map": "/testPortfolio/static/js/2.c2f8ebee.chunk.js.map",
+    "index.html": "/testPortfolio/index.html",
+    "static/css/main.75b82218.chunk.css.map": "/testPortfolio/static/css/main.75b82218.chunk.css.map",
+    "static/js/2.c2f8ebee.chunk.js.LICENSE.txt": "/testPortfolio/static/js/2.c2f8ebee.chunk.js.LICENSE.txt",
+    "static/media/dancingOnRoof.35f6cba6.jpeg": "/testPortfolio/static/media/dancingOnRoof.35f6cba6.jpeg",
+    "static/media/style.css": "/testPortfolio/static/media/devices.0176b815.jpeg",
+    "static/media/dolledUp.a2ff24f6.jpeg": "/testPortfolio/static/media/dolledUp.a2ff24f6.jpeg",
+    "static/media/donutsAmor.570cfa66.jpeg": "/testPortfolio/static/media/donutsAmor.570cfa66.jpeg",
+    "static/media/nailedIt.f28674fd.jpeg": "/testPortfolio/static/media/nailedIt.f28674fd.jpeg",
+    "static/media/walmartThanks.216bb1b4.jpeg": "/testPortfolio/static/media/walmartThanks.216bb1b4.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2efd74da.js",
+    "static/js/2.c2f8ebee.chunk.js",
+    "static/css/main.75b82218.chunk.css",
+    "static/js/main.0da03670.chunk.js"
+  ]
+}
